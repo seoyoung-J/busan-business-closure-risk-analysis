@@ -97,8 +97,6 @@ def process_in_chunk(coordinate_list, api_key, chunk_size, table_name):
         print(f"저장 완료: {start} ~ {start + len(chunk)}")
 
 
-# COMMAND ----------
-
 # 좌표 컬럼 null 아닌것만 추출 
 coordinate_pdf = spark.sql("""
 SELECT unique_id as uid, 
