@@ -109,4 +109,4 @@
 --- 
 
 ### 참고 자료 
-상세 분석 과정은 [Notion](https://www.notion.so/2229627a91c780be8dcdd420b011930f?v=8d37600a577e46f1bcec447df314b4a6&source=copy_link)에 정리되어 있습니다. 
+- 상세 분석 과정은 [Notion](https://www.notion.so/2229627a91c780be8dcdd420b011930f?v=8d37600a577e46f1bcec447df314b4a6&source=copy_link)에 정리되어 있습니다. 
