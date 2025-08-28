@@ -25,8 +25,10 @@
 - **사용 기술**
    - 데이터 처리: PySpark, pandas, Delta Lake  
    - 모델링 및 해석: scikit-learn, SHAP  
-   - 시각화: matplotlib, seaborn  
-   - 환경: Databricks, Google Colab  
+   - 시각화: Matplotlib, Seaborn, GeoPandas
+   - 환경: Databricks, Google Colab
+ 
+--- 
  
 ### 주요 지표
 
